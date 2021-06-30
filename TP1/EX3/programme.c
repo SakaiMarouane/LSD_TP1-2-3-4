@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "programme.h"
 
 
 int isprime(int n)
